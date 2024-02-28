@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/M-S-Pro/M-S-Pro/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -64,7 +64,6 @@
   <a href="https://yourssharky@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
 ###
