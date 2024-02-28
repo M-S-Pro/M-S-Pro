@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Welocome to profile</h1>
+<h1 align="center">Muaaz Raza/h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">I am Muaaz Raza and I'm a MERN stack developer .</p>
+<p align="center">Muaaz Raza is a full stack web developer and open to collaborate .</p>
 
 ###
 
