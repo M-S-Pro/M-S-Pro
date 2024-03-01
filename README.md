@@ -1,6 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<br><br>
+
 <h1 align="center">Hi 👋, I'm Muaaz Raza</h1>
 <h3 align="center">A passionate Mern stack devloper</h3>
-
+ <img align="right" src="https://komarev.com/ghpvc/?username=m-s-pro&label=Profile%20views&color=0e75b6&style=flat](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="m-s-pro" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-s-pro&label=Profile%20views&color=0e75b6&style=flat" alt="m-s-pro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-s-pro" alt="m-s-pro" /></a> </p>
@@ -13,7 +16,7 @@
 
 - 💬 Ask me about **react,mongodb,javascript**
 
-- 📫 How to reach me **yourshark@gmail.com**
+- 📫 How to reach me **yoursharky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,21 +61,3 @@
 ###
 
 
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/muaaz-raza" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/muaaz_the_developer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://yourssharky@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
