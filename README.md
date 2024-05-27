@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
+
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Muaaz</h1>
@@ -10,8 +10,9 @@ I'm consistently driven to enhance my programming expertise, striving to develop
 
 Check out my GitHub for a peek into my coding journey. Let's connect and explore the ever-evolving landscape of website development together! 🚀 
 
-<br><br><br><br><be>
-
+<br><br>
+![MasterHead](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
+<br><br>
 
 
 - 🔭 I’m currently working on SAAS products 
