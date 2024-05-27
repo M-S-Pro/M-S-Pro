@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif))
+![MasterHead](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Muaaz</h1>
