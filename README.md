@@ -19,8 +19,8 @@ Check out my GitHub for a peek into my coding journey. Let's connect and explore
 - 💬 Ask me about **React,Javascript,Typescript,MongoDB**
 - 📫 How to reach me **yourssharky@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/muaa-raza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milad-kardgar-095762a7/" height="30" width="40" /></a>
 <a href="https://github.com/m-s-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://github.com/m-s-pro" height="30" width="40" /></a>
 <a href="https://github.com/m-s-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/m-s-pro" height="30" width="40" /></a>
