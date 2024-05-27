@@ -10,13 +10,13 @@ I'm consistently driven to enhance my programming expertise, striving to develop
 
 Check out my GitHub for a peek into my coding journey. Let's connect and explore the ever-evolving landscape of website development together! 🚀 
 
-<br><br>
+
 - 🔭 I’m currently working on SAAS products 
 - 💬 Ask me about **React,Javascript,Typescript,MongoDB**
 - 📫 How to reach me **yourssharky@gmail.com**
 <br><br>
 ![MasterHead](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
-<br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muaa-raza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milad-kardgar-095762a7/" height="30" width="40" /></a>
