@@ -1,8 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://i.pinimg.com/564x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg)
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Muaaz</h1>
-A passionate full stack with over 1 years of hands-on experience in mern stack development . As a dedicated professional, I thrive on creating robust and scalable solutions that leverage the power of Microsoft's technology stack. Although my main area of focus is design and development of web apps using react and work with diverse database engine MongoDB .
+A passionate full stack with over 1.2 years of hands-on experience in mern stack development . As a dedicated professional, I thrive on creating robust and scalable solutions that leverage the power of Microsoft's technology stack. Although my main area of focus is design and development of web apps using react and work with diverse database engine MongoDB .
 
 <br><be>
 I'm consistently driven to enhance my programming expertise, striving to develop superior software solutions. I am actively seeking avenues for further learning and professional advancement and eagerly embrace the opportunities and obstacles that arise from keeping pace with the ever-evolving landscape of industry trends.
@@ -12,12 +12,11 @@ Check out my GitHub for a peek into my coding journey. Let's connect and explore
 
 <br><br><br><br><be>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Flexzon](https://flexzon.vercel.app)
-- 💬 Ask me about **React,Javascript,Typescript**
+
+- 🔭 I’m currently working on SAAS products 
+- 💬 Ask me about **React,Javascript,Typescript,MongoDB**
 - 📫 How to reach me **yourssharky@gmail.com**
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
