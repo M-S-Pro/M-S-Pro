@@ -15,7 +15,7 @@ Check out my GitHub for a peek into my coding journey. Let's connect and explore
 - 💬 Ask me about **React,Javascript,Typescript,MongoDB**
 - 📫 How to reach me **yourssharky@gmail.com**
 <br><br>
-![MasterHead](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
